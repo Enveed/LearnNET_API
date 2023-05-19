@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNET_API", "LearnNET_API\LearnNET_API.csproj", "{2DBE8F2C-650B-4C99-A402-0E245A49D0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBE8F2C-650B-4C99-A402-0E245A49D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBE8F2C-650B-4C99-A402-0E245A49D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBE8F2C-650B-4C99-A402-0E245A49D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBE8F2C-650B-4C99-A402-0E245A49D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93845C59-8F8E-4282-AD01-DA3A8233BF73}
+	EndGlobalSection
+EndGlobal
